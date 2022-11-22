@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 37,
+  "articles": [
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Michael Schwirtz, Cora Engelbrecht, Matthew Mpoke Bigg",
+      "title": "Latest Ukraine-Russia War News: Live Mariupol Updates - The New York Times",
+      "description": "About 200 civilians are still sheltering beneath a sprawling steel plant in the ruined southeastern city, the mayor said. As Western leaders escalate support for Ukraine, President Biden was scheduled to speak at a missile factory in Alabama.",
+      "url": "https://www.nytimes.com/live/2022/05/03/world/ukraine-russia-war-news",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/03/world/03ukraine-blog-promo-7am-est/03ukraine-blog-promo-7am-est-facebookJumbo.jpg",
+      "publishedAt": "2022-05-03T12:26:51Z",
+      "content": "ZAPORIZHZHIA, Ukraine Ukrainian civilians evacuated from the ruined city of Mariupol carried with them fresh accounts of survival and terror on Monday as Western nations worked to turn their increasi… [+9912 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Tierney Sneed, Ariane de Vogue and Joan Biskupic, CNN",
+      "title": "Supreme Court draft opinion that would overturn Roe v. Wade published by Politico - CNN",
+      "description": "In a stunning breach of Supreme Court confidentiality and secrecy, Politico has obtained what it calls a draft of a majority opinion written by Justice Samuel Alito that would strike down Roe v. Wade.",
+      "url": "https://www.cnn.com/2022/05/02/politics/roe-v-wade-supreme-court/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220502212258-pro-choice-activists-supreme-court-file-012222-super-tease.jpg",
+      "publishedAt": "2022-05-03T12:15:00Z",
+      "content": "(CNN)In a stunning breach of Supreme Court confidentiality and secrecy, Politico has obtained what it calls a draft of a majority opinion written by Justice Samuel Alito that would strike down Roe v.… [+11255 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Kevin Stankiewicz",
+      "title": "5 things to know before the stock market opens Tuesday - CNBC",
+      "description": "Stock futures are relatively flat Tuesday morning on Wall Street, while Pfizer and Burger King's parent company delivered first-quarter earnings beats.",
+      "url": "https://www.cnbc.com/2022/05/03/5-things-to-know-before-the-stock-market-opens-tuesday.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107051074-1650899594171-gettyimages-1393609669-dscf6429_2022042595344444.jpeg?v=1650899632&w=1920&h=1080",
+      "publishedAt": "2022-05-03T11:53:10Z",
+      "content": "Here are the most important news, trends and analysis that investors need to start their trading day:\r\n1. Stock futures are flat after Monday's intraday reversal\r\nTraders work on the floor of the New… [+5304 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ryan Browne",
+      "title": "Tomb Raider publisher sells iconic video game franchise to invest in blockchain - CNBC",
+      "description": "Japan's Square Enix is selling the Tomb Raider franchise to Sweden's Embracer Group in a $300 million deal.",
+      "url": "https://www.cnbc.com/2022/05/03/tomb-raider-publisher-square-enix-to-sell-iconic-video-game-franchise.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107055016-1651573252097-gettyimages-477335932-85814824.jpeg?v=1651573372&w=1920&h=1080",
+      "publishedAt": "2022-05-03T11:17:23Z",
+      "content": "The iconic Tomb Raider video game franchise is being sold by its Japanese publisher Square Enix as part of a $300 million deal.\r\nSquare Enix said Monday it will offload three of its game development … [+2879 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Spencer Kimball",
+      "title": "Pfizer slashes 2022 earnings outlook despite strong first quarter Covid vaccine and antiviral sales - CNBC",
+      "description": "Pfizer said it sold $13.2 billion of its Covid vaccine and $1.5 billion of its antiviral treatment Paxlovid.",
+      "url": "https://www.cnbc.com/2022/05/03/covid-pfizer-pfe-earnings-q1-2022-.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/105687507-1547831143627bourla.jpg?v=1599572856&w=1920&h=1080",
+      "publishedAt": "2022-05-03T10:59:46Z",
+      "content": "Pfizer on Tuesday cut its 2022 earnings guidance, despite reporting first quarter results that beat on the top and bottom line due to strong Covid vaccine and antiviral sales.\r\nThe pharmaceutical gia… [+3024 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Mark Thompson, CNN Business",
+      "title": "BP profit more than doubles on 'exceptional' oil trading - CNN",
+      "description": "BP took a hit of more than $24 billion from ditching its business in Russia but reported a huge jump in profit for the first quarter.",
+      "url": "https://www.cnn.com/2022/05/03/investing/bp-earnings-russia/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220503102736-bp-earnings-russia-super-tease.jpg",
+      "publishedAt": "2022-05-03T10:45:00Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nick Timiraos",
+      "title": "Fed’s Message on Interest-Rate Path, Destination Will Be Scrutinized - The Wall Street Journal",
+      "description": "Investors are watching Powell for clues on how high the central bank will raise rates beyond this year",
+      "url": "https://www.wsj.com/articles/feds-message-on-interest-rate-path-destination-will-be-scrutinized-11651570200",
+      "urlToImage": "https://images.wsj.net/im-535869/social",
+      "publishedAt": "2022-05-03T09:30:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "SciTechDaily" },
+      "author": null,
+      "title": "Children With Vegetarian Diet Have Similar Growth and Nutrition Compared to Meat-Eating Peers - SciTechDaily",
+      "description": "However, children with a vegetarian diet had increased odds of underweight weight status. A study of almost 9,000 children revealed that those who eat a vegetarian diet had similar measures of growth and nutrition compared to kid's who eat meat. The research …",
+      "url": "https://scitechdaily.com/children-with-vegetarian-diet-have-similar-growth-and-nutrition-compared-to-meat-eating-peers/",
+      "urlToImage": "https://scitechdaily.com/images/Happy-Girl-Kid-Eating-Vegetables.jpg",
+      "publishedAt": "2022-05-03T09:12:22Z",
+      "content": "BySt. Michael's HospitalMay 3, 2022A new research study finds children with a vegetarian diet have similar growth and nutrition compared to children who eat meat.\r\nHowever, children with a vegetarian… [+4607 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Kenneth Garger",
+      "title": "Pennsylvania mom charged with shooting two young sons in head as they slept - New York Post ",
+      "description": "Trinh Nguyen, 38, was busted for the senseless violence after she fled the shooting scene in Newtown and drove to the parking lot of a nearby church, The Philadelphia Inquirer reported, citing pros…",
+      "url": "https://nypost.com/2022/05/03/pennsylvania-woman-trinh-nguyen-charged-for-shooting-two-sons-in-head-while-they-slept/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/mom-shoots-kids-672.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-05-03T09:03:00Z",
+      "content": "A crazed Pennsylvania mother allegedly shot her two sons in the head while they were asleep early Monday before trying to pump two bullets into a neighbor, a report said.\r\nTrinh Nguyen, 38, was buste… [+1257 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Keith Bradsher",
+      "title": "Russia Could Sell More Energy to Asia, but Has to Slash Prices - The New York Times",
+      "description": "Russia wants to sell more oil and coal to China and India, but Western sanctions may make that hard unless Russia offers deep discounts on the price.",
+      "url": "https://www.nytimes.com/2022/05/03/business/russia-china-energy-ukraine.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/03/business/03China-Russia-Energy-1/03China-Russia-Energy-1-facebookJumbo.jpg",
+      "publishedAt": "2022-05-03T09:00:26Z",
+      "content": "Russia is already increasing natural gas shipments to China through a recently completed Siberian pipeline. But because Russias Siberian gas fields are not linked by pipelines to Russian gas fields s… [+1051 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Russia says Israel supports neo-Nazis in row over Ukraine - Reuters",
+      "description": "Russia's foreign ministry accused Israel on Tuesday of supporting neo-Nazis in Ukraine, further escalating a row which began when Russian Foreign Minister Sergei Lavrov claimed Adolf Hitler had Jewish origins.",
+      "url": "https://www.reuters.com/world/europe/russia-says-israel-supports-neo-nazis-row-over-ukraine-2022-05-03/",
+      "urlToImage": "https://www.reuters.com/resizer/DdmrgdLM6IZYr8HTVh0mEu8Nclg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UAQRTFQBPFJTTDHVT4PYSH3PQA.jpg",
+      "publishedAt": "2022-05-03T08:31:00Z",
+      "content": "May 3 (Reuters) - Russia's foreign ministry accused Israel on Tuesday of supporting neo-Nazis in Ukraine, further escalating a row which began when Russian Foreign Minister Sergei Lavrov claimed Adol… [+1711 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Tim MacMahon",
+      "title": "Jason Kidd says Dallas Mavericks need 'someone to join the party' after dropping Game 1 to Phoenix Suns despite Luka Doncic's 45 - ESPN",
+      "description": "Luka Doncic scorched the Suns with 45 points, 12 rebounds and eight assists on Monday -- outscoring the rest of the Mavs' starting lineup -- but it wasn't enough, as Dallas dropped the opener of the Western Conference semifinal series.",
+      "url": "https://www.espn.com/nba/story/_/id/33847069/jason-kidd-says-dallas-mavericks-need-join-party-dropping-game-1-phoenix-suns-luka-doncic-45",
+      "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0503%2Fr1007689_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-05-03T08:27:11Z",
+      "content": "PHOENIX -- One of the most anticipated matchups of the NBA postseason's second round, pitting Defensive Player of the Year runner-up Mikal Bridges against perennial MVP candidate Luka Doncic, was a m… [+3061 chars]"
+    },
+    {
+      "source": { "id": null, "name": "TMZ" },
+      "author": "TMZ Staff",
+      "title": "Man Who Punched Tekashi 6ix9ine At Nightclub Says He Deserved It - TMZ",
+      "description": "The guy that punched Tekashi 6ix9ine doesn't think he's in the wrong ... and even believes the rapper got exactly what was coming to him.",
+      "url": "https://www.tmz.com/2022/05/03/tekashi-6ix9ine-punch-nightclub-deserve-itzmrbhn/",
+      "urlToImage": "https://imagez.tmz.com/image/f6/16by9/2022/05/02/f6b00667a2c2461ab9eb948b5bb94b23_xl.jpg",
+      "publishedAt": "2022-05-03T08:00:00Z",
+      "content": "The guy who punched Tekashi 6ix9ine in a Miami nightclub says the rapper got exactly what was coming to him ... because the rapper was trying to \"bully\" him and his friends.\r\nTMZ broke the story ... … [+906 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Angie Orellana Hernandez and Ashley Strickland, CNN",
+      "title": "The Eta Aquariids meteor shower will dazzle this week - CNN",
+      "description": "The Eta Aquariids meteor shower, which originated from Halley's Comet, will peak on during the early morning hours of May 5, and those in the Southern Hemisphere will get the best view.",
+      "url": "https://www.cnn.com/2022/05/03/world/eta-aquariids-meteor-shower-may-2022-scn/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/210504142212-eta-aquarid-meteor-shower-restricted-super-tease.jpg",
+      "publishedAt": "2022-05-03T07:56:00Z",
+      "content": "(CNN)While the moon's brightness may have obscured April Lyrid's meteor shower, stargazers will have another opportunity to spot meteors with the upcoming Eta Aquariids meteor shower, peaking at arou… [+4546 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Page Six" },
+      "author": "Elana Fishman",
+      "title": "The best celebrity looks from Met Gala 2022: Blake Lively, Kim Kardashian, more - Page Six",
+      "description": "From Lively’s Lady Liberty-inspired Atelier Versace look to Kim Kardashian’s ode to Marilyn Monroe, these fashion moments stood out from the rest.",
+      "url": "https://pagesix.com/2022/05/03/the-best-celebrity-looks-from-met-gala-2022/",
+      "urlToImage": "https://pagesix.com/wp-content/uploads/sites/3/2022/05/met-gala-2022-best-dressed.jpg?quality=75&strip=all&w=1200",
+      "publishedAt": "2022-05-03T05:48:00Z",
+      "content": "The Met Gala is back and from the guest list to the red carpet, this year’s ball was bigger than ever before.\r\nAfter several pandemic-related delays, “fashion prom” returned to its traditional spot o… [+2947 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jazmine Ulloa",
+      "title": "What to Watch in Ohio and Indiana Primary Elections Tuesday - The New York Times",
+      "description": "The second election night of the 2022 midterms has some national implications for Republicans. Here’s a breakdown.",
+      "url": "https://www.nytimes.com/2022/05/03/us/politics/ohio-indiana-primary-elections.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/05/02/multimedia/02pol-whattowatch-photo/02pol-whattowatch-photo-facebookJumbo.jpg",
+      "publishedAt": "2022-05-03T04:01:04Z",
+      "content": "On the campaign trail, Mr. Vance has sought to atone for his past negative comments about Mr. Trump. Polls have shown a significant bump for Mr. Vance, but no clear front-runner has emerged.\r\nDavid M… [+1908 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Post" },
+      "author": "Greg Joyce",
+      "title": "Francisco Lindor 'sad' to see Robinson Cano go but respects Mets' decision - New York Post ",
+      "description": "Francisco Lindor wishes he had more time with Robinson Cano as his teammate, but said he “respects” the Mets’ decision to designate him for assignment.",
+      "url": "https://nypost.com/2022/05/02/francisco-lindor-sad-to-see-robinson-cano-go-respects-mets-move/",
+      "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/05/New_York_Mets_v_Arizona_Diamondbacks-1.jpg?quality=75&strip=all&w=1024",
+      "publishedAt": "2022-05-03T03:47:00Z",
+      "content": "Francisco Lindor wishes he had more time with Robinson Cano as his teammate, but said he respects the Mets decision to designate the struggling veteran for assignment on Monday.\r\nA day after the star… [+1709 chars]"
+    },
+    {
+      "source": { "id": "associated-press", "name": "Associated Press" },
+      "author": "Rod Mcguirk",
+      "title": "Sydney man gets 12 years for murdering gay American in 1988 - The Associated Press",
+      "description": "CANBERRA, Australia (AP) — An Australian man was sentenced to 12 years and seven months in prison Tuesday for the 1988 murder of an American who fell off a Sydney cliff that was known as a gay meeting place.",
+      "url": "https://apnews.com/article/crime-sydney-australia-canberra-hate-crimes-04ae7f198f8633bcf7b802fbbb24e0d9",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/36e5b7d6540f4ae9b7f39c423d981f63/3000.jpeg",
+      "publishedAt": "2022-05-03T03:45:23Z",
+      "content": "CANBERRA, Australia (AP) An Australian man was sentenced to 12 years and seven months in prison Tuesday for the 1988 murder of an American who fell off a Sydney cliff that was known as a gay meeting … [+3971 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Richard Lawler",
+      "title": "Meta's VR roadmap reportedly plans four new headsets for release through 2024 - The Verge",
+      "description": "Meta’s plans for virtual reality include four new headsets according to a report by The Information. The Project Cambria unit up first is a high-end mixed reality unit, plus another high-end headset and two Quest-like headsets.",
+      "url": "https://www.theverge.com/2022/5/2/23053888/meta-virtual-reality-headset-cambria-quest-vr-mr",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/uBMIca3yNIX7iPk1VrGFQTL24o4=/0x17:1632x871/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/22963875/Screen_Shot_2021_10_28_at_2.03.39_PM.png",
+      "publishedAt": "2022-05-03T03:12:06Z",
+      "content": "A Project Cambria mixed-reality unit is just one part of the plan\r\nLast month we took a deep dive into Mark Zuckerbergs grand metaverse plan, and some of the hardware Meta is working on to deliver it… [+2597 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Google faces internal battle over research on AI to speed chip design - Reuters",
+      "description": "Alphabet Inc's <a href=\"https://www.reuters.com/companies/GOOGL.O\" target=\"_blank\">(GOOGL.O)</a> Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligence software he had been…",
+      "url": "https://www.reuters.com/technology/google-faces-internal-battle-over-research-ai-speed-chip-design-2022-05-03/",
+      "urlToImage": "https://www.reuters.com/resizer/1vg-nN2-tkllB_yXGhOZtIR7Bjo=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/ARUR7LFSPNPDTCIFKEDNFQEKME.jpg",
+      "publishedAt": "2022-05-03T02:32:00Z",
+      "content": "OAKLAND, Calif., May 2 (Reuters) - Alphabet Inc's (GOOGL.O) Google said on Monday it had recently fired a senior engineering manager after colleagues, whose landmark research on artificial intelligen… [+3711 chars]"
+    }
+  ]
+}
