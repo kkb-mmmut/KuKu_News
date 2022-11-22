@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.382c5e93.css","mappings":"AAAA,eACE,iEAA2E,CAC3E,cACF,CACA,wBACE,qBACF","sources":["App.css"],"sourcesContent":[".cardcss:hover {\r\n  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.1);\r\n  cursor: pointer;\r\n}\r\n.container .colorfooter {\r\n  background-color: #808080;\r\n}\r\n"],"names":[],"sourceRoot":""}
