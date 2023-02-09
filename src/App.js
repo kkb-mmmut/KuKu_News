@@ -11,7 +11,7 @@ export default class App extends Component {
         <Router>
           <Navbars />
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/KuKu_News">
               <News
                 key="general"
                 pageSize={9}
