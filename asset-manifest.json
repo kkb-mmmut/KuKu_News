@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/KuKu_News/static/css/main.382c5e93.css",
-    "main.js": "/KuKu_News/static/js/main.2ed5cffa.js",
+    "main.js": "/KuKu_News/static/js/main.1c6bb61c.js",
     "static/js/787.b617bab0.chunk.js": "/KuKu_News/static/js/787.b617bab0.chunk.js",
     "static/media/loading.gif": "/KuKu_News/static/media/loading.6d8ae96a40c63a5131cc.gif",
     "index.html": "/KuKu_News/index.html",
     "main.382c5e93.css.map": "/KuKu_News/static/css/main.382c5e93.css.map",
-    "main.2ed5cffa.js.map": "/KuKu_News/static/js/main.2ed5cffa.js.map",
+    "main.1c6bb61c.js.map": "/KuKu_News/static/js/main.1c6bb61c.js.map",
     "787.b617bab0.chunk.js.map": "/KuKu_News/static/js/787.b617bab0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.382c5e93.css",
-    "static/js/main.2ed5cffa.js"
+    "static/js/main.1c6bb61c.js"
   ]
 }
